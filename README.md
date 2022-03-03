@@ -4,6 +4,7 @@ A notebook on compiler design and research.
 
 - LLVM
   - [2020 LLVM Virtual Developers' Meeting](llvm/devmtg_2020-10)
+  - [LLVM architecture presentation](llvm/presentation_outline.md)
 - WebAssembly
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
