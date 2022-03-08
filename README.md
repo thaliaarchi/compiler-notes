@@ -5,6 +5,7 @@ A notebook on compiler design and research.
 - LLVM
   - [2020 LLVM Virtual Developers' Meeting](llvm/devmtg_2020-10)
   - [LLVM architecture presentation](llvm/presentation_outline.md)
+  - [Language reference](llvm/langref.md)
   - [Version history](llvm/version_history.md)
 - WebAssembly
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
