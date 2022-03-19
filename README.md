@@ -6,7 +6,8 @@ A notebook on compiler design and research.
   - [LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation](llvm/cgo04_lattner.md)
   - [2020 LLVM Virtual Developers' Meeting](llvm/devmtg_2020-10)
   - [LLVM architecture presentation](llvm/presentation_outline.md)
-  - [Resources](llvm/presentation_resources.md)
+  - [Resources](llvm/resources.md)
+  - [Libraries](llvm/libraries.md)
   - [Language reference](llvm/langref.md)
   - [Version history](llvm/version_history.md)
 - WebAssembly
@@ -16,5 +17,6 @@ A notebook on compiler design and research.
 - [QBE](qbe.md)
 - [CompCert](compcert.md)
 - Mesa [NIR](mesa_nir.md)
+- [Parsing](parsing.md)
 
 Licensed under the terms of the GNU Free Documentation License, version 1.3.
