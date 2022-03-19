@@ -13,6 +13,7 @@ A notebook on compiler design and research.
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
   - [Multi-Value All the Wasm!](webassembly/multi_value.md)
+- [QBE](qbe.md)
 - [CompCert](compcert.md)
 - Mesa [NIR](mesa_nir.md)
 
