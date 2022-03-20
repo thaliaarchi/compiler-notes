@@ -15,6 +15,7 @@ A notebook on compiler design and research.
     - [MLIR Tutorial](llvm/devmtg_2020-10/mlir_tutorial.md)
     - [CIL: Common MLIR Dialect for C/C++ and Fortran](llvm/devmtg_2020-10/cil_mlir_dialect.md)
   - [LLVM architecture presentation](llvm/presentation_outline.md)
+  - [Tutorials](llvm/tutorials.md)
   - [Resources](llvm/resources.md)
   - [Libraries](llvm/libraries.md)
   - [Language reference](llvm/langref.md)
