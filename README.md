@@ -46,5 +46,6 @@ A notebook on compiler design and research.
 - [Zig](zig.md)
 - Mesa [NIR](mesa_nir.md)
 - [Data structures](data_structures.md)
+- [Programming language comparisons](pl_comparisons.md)
 
 Licensed under the terms of the GNU Free Documentation License, version 1.3.
