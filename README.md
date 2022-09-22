@@ -30,6 +30,7 @@ A notebook on compiler design and research.
   - [Bringing the Web up to Speed with WebAssembly](webassembly/pldi17_haas.md)
   - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](webassembly/atc19_jangda.md)
   - [Multi-Value All the Wasm!](webassembly/multi_value.md)
+- [Emscripten](emscripten.md)
 - [QBE](qbe.md)
 - Futamura projections
   - [Partial Evaluation of Computation Process: An Approach to a Compiler-Compiler](futamura/futamura.md)
