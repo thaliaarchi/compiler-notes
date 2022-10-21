@@ -21,6 +21,7 @@ A notebook on compiler design and research.
   - [Language reference](llvm/langref.md)
   - [Version history](llvm/version_history.md)
 - MLIR
+  - [MLIR: Scaling Compiler Infrastructure for Domain Specific Computation](mlir/cgo21_lattner.md)
   - [Tutorials](mlir/tutorials.md)
   - [Libraries](mlir/libraries.md)
 - Rust
