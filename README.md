@@ -24,6 +24,7 @@ A notebook on compiler design and research.
   - [MLIR: Scaling Compiler Infrastructure for Domain Specific Computation](mlir/cgo21_lattner.md)
   - [Tutorials](mlir/tutorials.md)
   - [Libraries](mlir/libraries.md)
+  - [Projects](mlir/projects.md)
 - Rust
   - [Crates and tutorials](rust/rust.md)
   - [Trivia about Rust Types](rust/types_trivia.md)
