@@ -48,7 +48,7 @@ A notebook on compiler design and research.
 - [CompCert](compcert.md)
 - [Zig](zig.md)
 - Mesa [NIR](mesa_nir.md)
-- [Trusting Trust](trusting_trust.txt)
+- [Trusting Trust](trusting_trust.md)
 - [Data structures](data_structures.md)
 - [Programming language comparisons](pl_comparisons.md)
 
